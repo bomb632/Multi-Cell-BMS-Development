@@ -1,0 +1,24 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+*.elf
+*.hex
+*.bin
+
+# Debug files
+*.log
+JLinkLog.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep debug.md
+!debug.md

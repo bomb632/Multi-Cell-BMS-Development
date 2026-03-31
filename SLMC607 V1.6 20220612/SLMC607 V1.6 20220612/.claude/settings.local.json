@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \".claude\\\\project-skills\\\\slmc607-bms\")",
+      "Bash(wc:*)",
+      "mcp__filesystem__list_directory"
+    ]
+  }
+}
