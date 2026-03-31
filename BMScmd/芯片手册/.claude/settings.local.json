@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "mcp__pdf-reader__read_pdf_text",
-      "mcp__pdf-reader__read_pdf_pages",
-      "mcp__pdf-reader__search_pdf_text"
-    ]
-  }
-}

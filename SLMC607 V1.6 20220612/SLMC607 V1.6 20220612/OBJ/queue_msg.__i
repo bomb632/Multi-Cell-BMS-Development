@@ -1,5 +1,0 @@
--c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\User -I..\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\Libraries\CMSIS\CM3\CoreSupport -I..\OBJ -I..\App -I..\Drive 
--I "D:\Keil 4.6\ARM\RV31\INC" 
--I "D:\Keil 4.6\ARM\CMSIS\Include" 
--I "D:\Keil 4.6\ARM\Inc\ST\STM32F10x" 
--DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\OBJ\queue_msg.o" --omf_browse "..\OBJ\queue_msg.crf" --depend "..\OBJ\queue_msg.d" "..\App\queue_msg.c"
