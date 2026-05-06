@@ -1,0 +1,32 @@
+# BMS项目文件 - 不推送到远程
+BMScmd/
+SLMC607 V1.6 20220612/
+*.pdf
+*.xlsx
+
+# Build outputs
+*.o
+*.obj
+*.exe
+*.elf
+*.hex
+*.bin
+
+# Debug files
+*.log
+JLinkLog.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep only debug records
+!debug.md
+!debug-plan.md
+!.gitignore
